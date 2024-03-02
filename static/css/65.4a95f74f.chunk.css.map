@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/65.4a95f74f.chunk.css","mappings":"AAEA,oCACE,uBACE,mBACF,CACF","sources":["Components/Brands/Brands.module.css"],"sourcesContent":["\r\n\r\n@media screen and (max-width: 767px) {\r\n  .imagggs {\r\n    width: 50% !important;\r\n  }\r\n}\r\n"],"names":[],"sourceRoot":""}
